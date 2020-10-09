@@ -1,1 +1,1 @@
-# Visualizing-data-on-cubed-sphere
+# Visualizing-data-remapped-to-cubed-sphere
